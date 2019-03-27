@@ -1,4 +1,5 @@
 import sys
 import os
 
-print("Hello World")
+name = input()
+print("Hello",name)
